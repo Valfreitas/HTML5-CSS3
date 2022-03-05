@@ -7,13 +7,19 @@
     <title>Fundo fixo de tela</title>
     <style>
         body {
+            height: 100vh;
             background-color: black;
             background-image: url('imagens/wallpaper002.jpg');
-            background-repeat: no-repeat;
             background-position: center center;
-            height: 100vh;
+            background-repeat: no-repeat;
             background-size: cover;/*em px ou contain ou cover*/
             background-attachment: fixed;
+
+            /* Shorthand - background
+                color > image > position > repeat > [size] > attachment
+            na w3c, tem a orientação de usar dessa forma, porem o size não funciona na pratica, deve-se colocar da forma tradicional.
+
+            */
         }
 
         main{
