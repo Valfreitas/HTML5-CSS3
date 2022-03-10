@@ -3,7 +3,7 @@
 
 Estou aprendendo a criar site e agora vou gerenciar repositórios!!!
 
-<ul type="square" columns="2">
+<ul type="square" columns: 2;>
     <li>
         <a href="https://valfreitas.github.io/html-css/Exercicios/ex001/index.html">Executar o exercicio 001</a>
     </li>
