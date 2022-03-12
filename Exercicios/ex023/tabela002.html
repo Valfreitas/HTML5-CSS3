@@ -4,9 +4,156 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Uso de tabelas grandes</title>
+    <title>Tabelas</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1 {
+            width: 500px;
+            border: 1px solid black;
+            text-align: center;
+
+        }
+        table {
+            border-collapse: collapse;
+            height: 500px;
+            text-align: center;
+        }
+    
+        th {
+            border: 1px solid black;
+            padding: 10px;
+
+           
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 10px;
+  
+        }
+
+        thead{
+            background-color:#B0E0E6;
+            padding: 30px;
+
+        }
+
+
+        tbody {
+            background-color: #FFF8DC;
+
+        }
+
+        tfoot {
+            background-color:#B0E0E6;
+
+        }
+    </style>
 </head>
 <body>
+    <h1>Uso de tabelas grandes</h1>
+    <!--
+            ANATOMIA PARA TABELAS GRANDES
+            TABLE
+                THEAD
+                    TR, TD, TH
+                TBODY
+                    TR, TD, TH
+                TFOOT
+                    TR, TD, TH
+    -->
     
 </body>
+<table>
+    <caption>Densidade demográfica no Brasil</caption>
+    <thead>
+        <tr>
+            <th style="width: 152px;">Região</th>
+            <th style="width: 163px;">Estados</th>
+            <th style="width: 50px;">Municípios</th>
+            <th style="width: 90px;">População</th>
+            <th style="width: 20px;">%</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Região Norte</td>
+            <td>Acre<br>
+                Amapá<br>
+                Amazonas<br>
+                Pará<br>
+                Rondônia<br>
+                Roraima<br>
+                Tocantins
+                </td>
+            <td>450</td>
+            <td>18 906 962</td>
+            <td>9%</td>
+        
+        </tr>
+        <tr>
+            <td>Região Nordeste</td>
+            <td>Alagoas<br>
+                Bahia<br>
+                Ceará<br>
+                Maranhão<br>
+                Paraíba<br>
+                Pernambuco<br>
+                Piauí<br>
+                Rio Grande do Norte<br>
+                Sergipe<br>
+                </td>
+            <td>1793</td>
+            <td>57 667 842</td>
+            <td>27%</td>
+        
+        </tr>
+        <tr>
+            <td>Região Centro-Oeste</td>
+            <td>Distrito Federal<br>
+                Goiás<br>
+                Mato Grosso<br>
+                Mato Grosso do Sul
+                </td>
+            <td>467</td>
+            <td>16 707 336</td>
+            <td>8%</td>
+        </tr>
+        <tr>
+            <td>Região Sudeste</td>
+            <td>Espírito Santo<br>
+                Minas Gerais<br>
+                Rio de Janeiro<br>
+                São Paulo
+                </td>
+            <td>1668</td>
+            <td>89 632 912</td>
+            <td>42%</td>
+        </tr>
+        <tr>
+            <td>Região Sul</td>
+            <td>Paraná<br>
+                Santa Catarina<br>
+                Rio Grande do Sul
+                </td>
+            <td>1191</td>
+            <td>16 707 336</td>
+            <td>14%</td>
+        </tr>
+
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>Brasil</td>
+            <td>26 e um distrito federal</td>
+            <td>5570</td>
+            <td>213 317 639</td>
+            <td></td>
+        </tr>
+        border
+
+    </tfoot>
+</table>
 </html>
