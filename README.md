@@ -32,31 +32,47 @@ Estou aprendendo a criar site e agora vou gerenciar repositórios!!!
         <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex009/index.html">Executar o exercicio 009</a>
     </li>
         <li>
-        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex010/index.html">Executar o exercicio 010</a>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex011/index.html">Executar o exercicio 011</a>
     </li>
         <li>
-        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex001/index.html">Executar o exercicio 001</a>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex012/index.html">Executar o exercicio 012</a>
     </li>
         <li>
-        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex001/index.html">Executar o exercicio 001</a>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex013/index.html">Executar o exercicio 013</a>
     </li>
         <li>
-        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex001/index.html">Executar o exercicio 001</a>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex014/index.html">Executar o exercicio 014</a>
     </li>
         <li>
-        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex001/index.html">Executar o exercicio 001</a>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex015/index.html">Executar o exercicio 015</a>
     </li>
         <li>
-        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex001/index.html">Executar o exercicio 001</a>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex016/index.html">Executar o exercicio 016</a>
     </li>
         <li>
-        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex001/index.html">Executar o exercicio 001</a>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex017/index.html">Executar o exercicio 017</a>
     </li>
         <li>
-        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex001/index.html">Executar o exercicio 001</a>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex018/index.html">Executar o exercicio 018</a>
     </li>
         <li>
-        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex001/index.html">Executar o exercicio 001</a>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex019/index.html">Executar o exercicio 019</a>
+    </li>
+        </li>
+        <li>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex020/index.html">Executar o exercicio 020</a>
+    </li>
+        </li>
+        <li>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex021/index.html">Executar o exercicio 021</a>
+    </li>
+        </li>
+        <li>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex022/index.html">Executar o exercicio 022</a>
+    </li>
+        </li>
+        <li>
+        <a href="https://valfreitas.github.io/HTML5-CSS3/Exercicios/ex023/index.html">Executar o exercicio 023</a>
     </li>
 
 </ul>
